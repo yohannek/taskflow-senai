@@ -33,11 +33,9 @@ yarn-error.log
 /.angular/cache
 .sass-cache/
 /connect.lock
-/coverage
 /libpeerconnection.log
-testem.log
 /typings
-__screenshots__/
+/coverage
 
 # System files
 .DS_Store
